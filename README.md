@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://www.figma.com/design/KU3TWHWDlbW6TO3A2W8RYV/DevLinks-•-Projeto-Discover-(Community)?node-id=1437-191&t=EEmbCmCs3IIsKDiN-0)
 
 ## 🔖 Layout
 
